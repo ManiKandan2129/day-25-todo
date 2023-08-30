@@ -1,0 +1,25 @@
+.form{
+    margin-top: 10px;
+}
+.input{
+    background-color: #522b5b;
+    color: #dfb6b2;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border-style: none;
+    width: 250px;
+    height: 30px;
+    padding-left: 10px;
+}
+label{
+    color: black;
+}
+.form-btn{
+    color: #dfb6b2;
+    margin-bottom: 10px;
+}
+.form-btn:hover{
+    background-color: #522b5b;
+    color: #dfb6b2;
+
+}
